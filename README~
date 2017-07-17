@@ -1,0 +1,13 @@
+this Ntuple made from elastic simulation with the following conditions:
+
+1- Target and Aluminium Cell included and put in real position(100 degree)
+
+2- hadronic interaction is ON
+
+3- 2e6 trigs generated
+
+4- it's not included Target_Holder
+
+5- The events generated from beam spot
+
+6- The bulging of Target is considered.
